@@ -1,0 +1,12 @@
+Job started: 0
+Job ended: 0
+Job started: 1
+Duplicate DAG detected: count at SparkJob.java:25, plan hash: 1916770691
+Job ended: 1
+Number of people above 30: 3
+Job started: 2
+Job ended: 2
+Job started: 3
+Duplicate DAG detected: count at SparkJob.java:29, plan hash: 1106565255
+Job ended: 3
+Number of people above 30 (second): 3
